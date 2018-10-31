@@ -2,6 +2,8 @@
 
 View the [design specs](https://github.com/wingworks/GO_v3.0-9/blob/master/GO_v3-9.kite)
 
+Download the release file: [Release 1.0 (3d model + dxf)](https://github.com/wingworks/GO_v3.0-9/releases/tag/GO_v3.0)
+
 ![Kite 3D preview](https://github.com/wingworks/GO_v3.0-9/blob/master/quad_view.png)
 
 ![Kite 3D preview](https://github.com/wingworks/GO_v3.0-9/blob/master/GO_v3-9_perspective.png)
